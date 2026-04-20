@@ -1,4 +1,4 @@
-# Personal Financial Tracker made with an SQL Database (Currently debugging)
+# Personal Financial Tracker made with an SQL Database
 Very basic financial tracker made with DBBrowser, Python and SQLite3
 
 ## Introduction
