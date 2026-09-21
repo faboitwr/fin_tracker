@@ -1,9 +1,6 @@
 # Personal Financial Tracker made with an SQL Database
 Very basic financial tracker made with DBBrowser, Python and SQLite3
 
-## Introduction
-A simple, Python-based application for me to store personal financial records privately/locally on my PC.
-
 ## Systems Overview
 "initiation.py" generates a fresh, empty instance of "finrec_.db" on a user's PC.
 
